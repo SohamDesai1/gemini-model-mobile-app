@@ -21,7 +21,7 @@ This project brings the capabilities of the Gemini AI model to a mobile app, ena
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/gemini-mobile-app.git
+   git clone https://github.com/SohamDesai1/gemini-model-mobile-app.git
    ```
 
 2. **Install dependencies:**
