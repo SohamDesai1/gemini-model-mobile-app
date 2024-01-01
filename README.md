@@ -1,23 +1,23 @@
- **# Gemini Mobile App**
+ # Gemini Mobile App
 
 **Harness the power of Gemini AI on your mobile device**
 
 This project brings the capabilities of the Gemini AI model to a mobile app, enabling users to interact with it through a user-friendly interface. It's built with a Flutter frontend for a seamless cross-platform experience and a Flask backend to handle the AI interactions.
 
-**## Features**
+## Features
 
 - **Interactive text generation:** Engage in conversations, create stories, translate languages, and more.
 - **Code generation:** Generate code in various programming languages based on your instructions.
 - **Personalized experiences:** Tailor responses to your preferences and past interactions.
 - **Seamless cross-platform compatibility:** Works on both Android and iOS devices.
 
-**## Tech Stack**
+## Tech Stack
 
 - **Frontend:** Flutter
 - **Backend:** Flask
 - **AI Model:** Gemini
 
-**## Getting Started**
+## Getting Started
 
 1. **Clone the repository:**
    ```bash
@@ -51,14 +51,14 @@ This project brings the capabilities of the Gemini AI model to a mobile app, ena
      flutter run
      ```
 
-**## Contributing**
+## Contributing
 
 We welcome contributions! Please refer to the `CONTRIBUTING.md` file for guidelines.
 
-**## License**
+## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-**## Contact**
+## Contact
 
 For any questions or feedback, feel free to reach out to us at <your-email>.
